@@ -6,7 +6,7 @@ I'm a passionate web developer based in [Your Current Location]. My goal is to c
 - 💼 Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile)
 - 📧 Reach me via email: [dhanu200x@gmail.com](mailto:dhanu200x@gmail.com)
 - 📝 Check out my code projects below, specializing in HTML, CSS, JavaScript, and more.
-- ⭐ Fun Fact: [Insert Your Favorite Quote or Personal Motto Here]
+- ⭐ Fun Fact:[Don't waste Your Time Killing ZOMBIES ,Because you can't ! Just AVOID them]
 
 ### My Tech Stack
 

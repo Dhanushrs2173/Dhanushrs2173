@@ -8,6 +8,7 @@ I'm a passionate web developer based in [Your Current Location]. My goal is to c
 - 📝 Check out my code projects below, specializing in HTML, CSS, JavaScript, and more.
 - ⭐ Fun Fact:[Don't waste Your Time Killing ZOMBIES ,Because you can't ! Just AVOID them]
 
+![](https://komarev.com/ghpvc/?username=dhanushes2173)
 ### My Tech Stack
 
 - HTML

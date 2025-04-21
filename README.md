@@ -1,38 +1,75 @@
-## Hi there, I'm Dhanush R S 👋
+<h1 align="center">Hi there, I'm Dhanush R S 👋</h1>
 
-I'm a passionate web developer based in [Your Current Location]. My goal is to create beautiful and functional web experiences that make the internet a better place.
+<p align="center">
+  <em>Full-stack Web Developer | B.Tech CSE @ Marian Engineering College | Machine Learning Honors | Robotics Minor</em>
+</p>
 
-- 🌐 Check out my personal website: [Your Personal Website or Portfolio](https://www.yourwebsite.com)
-- 💼 Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile)
-- 📧 Reach me via email: [dhanu200x@gmail.com](mailto:dhanu200x@gmail.com)
-- 📝 Check out my code projects below, specializing in HTML, CSS, JavaScript, and more.
-- ⭐ Fun Fact:[Don't waste Your Time Killing ZOMBIES ,Because you can't ! Just AVOID them]
+<p align="center">
+  <a href="mailto:dhanu200x@gmail.com"><strong>Email</strong></a> •
+  <a href="https://www.linkedin.com/in/yourlinkedinprofile"><strong>LinkedIn</strong></a> •
+  <a href="https://www.yourwebsite.com"><strong>Portfolio</strong></a>
+</p>
 
-![](https://komarev.com/ghpvc/?username=dhanushes2173)
-### My Tech Stack
+---
 
-- HTML
-- CSS
-- JavaScript
-- Java
-- C
+### 🚀 About Me
 
-### GitHub Stats
+- Passionate about building clean, scalable full-stack applications  
+- At present SDE Intern at **Nissan**  
+- Strong foundation in **Web Development**, **Machine Learning**, and **Computer Vision**
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhanushrs2173&show_icons=true)
+---
 
-### Open Source Contributions
+### 🛠 Tech Stack
 
-I'm proud of my contributions to open-source projects, including [Project Name 1](https://github.com/yourusername/project1) and [Project Name 2](https://github.com/yourusername/project2).
+**Frontend:**  
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
 
-### Hobbies
+**Backend & Database:**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-When I'm not coding, you can find me [Insert Your Interests or Hobbies Outside of Coding].
+**Languages:**  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 
-### Let's Connect
+---
 
-Feel free to connect with me on social media:
-- Twitter: [Your Twitter Profile](https://twitter.com/yourtwitterprofile)
-- Instagram: [Your Instagram Profile](https://www.instagram.com/yourinstagramprofile)
+### 📊 GitHub Stats
 
-Thanks for visiting my GitHub profile! 😄
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhanushrs2173&show_icons=true&theme=radical" alt="Dhanush's GitHub stats" />
+</p>
+
+---
+
+### 🔧 Projects & Contributions
+
+- [**Huesight**](https://github.com/dhanushrs2173/huesight): Color correction web app for color blindness  
+- More projects coming soon...
+
+---
+
+### ⚡ Fun Fact
+
+> Don’t waste your time killing zombies — because you can’t! Just **AVOID** them.
+
+---
+
+### 📫 Let's Connect!
+
+<p>
+  <a href="https://twitter.com/yourtwitterprofile">Twitter</a> •
+  <a href="https://instagram.com/yourinstagramprofile">Instagram</a> •
+  <a href="mailto:dhanu200x@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhanushrs2173" alt="Profile Views" />
+</p>
